@@ -49,19 +49,27 @@ body {
     color: #fff;
     padding: 100px 0;
     text-align: center;
+    margin-top: -200px;
 }
 
-.explore-section h2 {
+h2 {
     font-size: 2.5rem;
     margin-bottom: 30px;
 }
 
-.explore-section p {
+p {
     margin: 20px;
     font-size: 1.25rem;
     margin-bottom: 20px;
 }
 
+.mysteries{
+    background-color: rgba(0, 0, 0); 
+    color: #fff;
+    padding: 100px 0;
+    text-align: center;
+    margin-top: -500px;
+}
 
 .btn {
     background-color: #fff;
